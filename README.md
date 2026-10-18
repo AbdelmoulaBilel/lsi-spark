@@ -1,5 +1,7 @@
 # LSI + Spark: Latent Semantic Indexing at scale
 
+[![tests](https://github.com/AbdelmoulaBilel/lsi-spark/actions/workflows/tests.yml/badge.svg)](https://github.com/AbdelmoulaBilel/lsi-spark/actions/workflows/tests.yml)
+
 Master's final project (PFE). A small search engine based on **Latent Semantic Indexing (LSI)**,
 built from scratch on the 20 Newsgroups dataset, plus a benchmark of the SVD step on a single
 machine (numpy) vs. distributed with **Apache Spark** (MLlib `RowMatrix`, "MR-LSI").
