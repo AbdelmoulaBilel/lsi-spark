@@ -15,7 +15,7 @@ machine (numpy) vs. distributed with **Apache Spark** (MLlib `RowMatrix`, "MR-LS
 ## Install
 
 ```bash
-git clone https://github.com/BilelAbdelmoula/lsi-spark.git
+git clone https://github.com/AbdelmoulaBilel/lsi-spark.git
 cd lsi-spark
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (Linux/macOS: source .venv/bin/activate)
